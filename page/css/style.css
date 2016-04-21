@@ -56,6 +56,23 @@ h3{
     border: 1px solid #fff;
     border-radius: 10px;
 }
+/*========================*/
+.col-lg-1 {
+	position: relative;
+    min-height: 1px;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+.block {
+	background: #ededed;
+	height: 55px;
+}
+.baseline {
+	padding-top: 18px;
+}
+.subscribe {
+	padding-top: 10px;
+}
 
 /* Large Devices, Wide Screens */
 @media only screen and (max-width : 1200px) {
